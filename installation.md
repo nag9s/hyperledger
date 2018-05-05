@@ -11,9 +11,15 @@ check if node is already installed and adhere to the above version
 
 sudo apt install docker.io
 
+```
+sudo usermod -a -G docker $USER
+
+restart the machine
 
 
-    sudo usermod -a -G docker $USER
 
-	restart the machine
+
+```
+
+and also https://hyperledger.github.io/composer/latest/installing/installing-prereqs.html
 
