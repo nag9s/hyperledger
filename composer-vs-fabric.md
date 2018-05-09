@@ -1,6 +1,4 @@
-https://stackoverflow.com/questions/45505333/difference-between-hyperledger-composer-and-hyperledger-fabric
-
-
+[https://stackoverflow.com/questions/45505333/difference-between-hyperledger-composer-and-hyperledger-fabric](https://stackoverflow.com/questions/45505333/difference-between-hyperledger-composer-and-hyperledger-fabric)
 
 Hyperledger Composer simplifies application development on top of the Hyperledger Fabric blockchain infrastructure.
 
