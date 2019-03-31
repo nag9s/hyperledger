@@ -6,4 +6,6 @@
 * [Composer Vs Fabric](composer-vs-fabric.md)
 * [Iroha](iroha.md)
 * [Saw Tooth](saw-tooth.md)
+* [Plural Sight](plural-sight.md)
+* [Developing Applications on Ethereum Blockchain](developing-applications-on-ethereum-blockchain.md)
 
