@@ -11,4 +11,5 @@
 * [Ordering](ordering.md)
   * [Why Ordering is important](ordering/why-ordering-is-important.md)
 * [ChainCode](chaincode.md)
+* [Projects](projects.md)
 
